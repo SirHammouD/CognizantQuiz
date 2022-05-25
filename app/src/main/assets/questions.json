@@ -1,0 +1,110 @@
+{
+
+"status": "success",
+
+"questions": [
+
+{
+
+"title": "Question 01",
+
+"options": [
+
+"A",
+
+"B",
+
+"C",
+
+"D"
+
+],
+
+"answer": "B"
+
+},
+
+{
+
+"title": "Question 02",
+
+"options": [
+
+"A",
+
+"B",
+
+"C",
+
+"D"
+
+],
+
+"answer": "C"
+
+},
+
+{
+
+"title": "Question 03",
+
+"options": [
+
+"A",
+
+"B",
+
+"C",
+
+"D"
+
+],
+
+"answer": "A"
+
+},
+
+{
+
+"title": "Question 04",
+
+"options": [
+
+"A",
+
+"B",
+
+"C",
+
+"D"
+
+],
+
+"answer": "D"
+
+},
+
+{
+
+"title": "Question 05",
+
+"options": [
+
+"A",
+
+"B",
+
+"C",
+
+"D"
+
+],
+
+"answer": "B"
+
+}
+
+]
+
+}
+
